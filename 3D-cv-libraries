@@ -1,0 +1,10 @@
+#!/bin/bash
+pip install open3d
+pip install python-pcl
+pip install pytorch3d
+pip install trimesh
+pip install vtk
+pip install pyrender
+pip install meshpy
+pip install kaolin
+pip install pymeshlab
